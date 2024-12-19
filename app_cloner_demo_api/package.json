@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@fingerprintjs/fingerprintjs-pro-server-api": "^6.1.0",
+    "express": "^4.21.2"
+  }
+}
